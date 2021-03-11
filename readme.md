@@ -11,23 +11,21 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Description: Adds a scheduling control to elementor blocks to time its visibility
 
- 
 == Description ==
- 
+
 This pluign allows it to schedule the visibility of Elementor Sections to prepare content upfront or limit its visibility to a certain date and time.
 You can either set start date and time, end date and time or both (or none of course).
- 
+
 == Installation ==
- 
+
 Just install the Plugin directly from the Wordpress Dashboard and activate it. Of course Elementor needs to be installed and activated, too.
- 
+
 == Frequently Asked Questions ==
- 
+
 = There are none yet =
- 
+
 Do you have a question?
- 
+
 == Screenshots ==
- 
+
 1. Scheduler in Elementor Editor, on Advanced Tab
- 
